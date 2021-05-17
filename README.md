@@ -11,7 +11,7 @@ I'm learning at the moment **VueJS, Express, Deno**
 [![Linkedin Badge](https://img.shields.io/badge/-danielmascena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmascena/)](https://www.linkedin.com/in/danielmascena/)
 [![Gmail Badge](https://img.shields.io/badge/-danielmascena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmascena@gmail.com)](mailto:danielmascena@gmail.com)
 
-## 🚀💻 Technologies & Tools
+## 🚀 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -33,3 +33,6 @@ I'm learning at the moment **VueJS, Express, Deno**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=danielmascena&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmascena&hide=TeX&layout=compact)
+
+## ⚙️ Certification
+[![MCP](https://images.credly.com/size/680x680/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png)](https://www.credly.com/badges/6c7b2fec-501c-4c18-8514-0eca04436369)
