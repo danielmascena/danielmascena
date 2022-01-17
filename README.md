@@ -1,12 +1,12 @@
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Daniel Mascena</h1>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel Mascena</h1>
 <p align = "justify">👨🏻‍💻 I'm a frontend developer who loves JavaScript, HTML5 and CSS3. Also, I'm concern with UX and beautiful interfaces.</p>
 
-I currently work at Dataprev [DATAPREV](http://portal.dataprev.gov.br/)
+I work at Tripleplay [TRIPLEPLAY](https://tripleplay.tv) as Senior Frontend Developer.
 
-I'm learning at the moment **VueJS, Express, Deno**
 
-- 🌱 I’m currently learning VueJS
-- 👯 I’m looking to collaborate on Web Components based UI library.
+- ⚙️ I work with React and plain JavaScript apps on my daily basis.
+- 🌱 I’m learning at the moment **Svelte, Node, Angular**
+- 👯 I’m open to collaborate on a Web Standard based codebase for an open-source project.
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielmascena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmascena/)](https://www.linkedin.com/in/danielmascena/)
 [![Gmail Badge](https://img.shields.io/badge/-danielmascena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmascena@gmail.com)](mailto:danielmascena@gmail.com)
