@@ -1,10 +1,10 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel Mascena</h1>
 <p align = "justify">👨🏻‍💻 I'm a frontend developer who loves JavaScript, HTML5 and CSS3. Also, I'm concern with UX and beautiful interfaces.</p>
 
-I work at [Tripleplay](https://tripleplay.tv) as Senior Frontend Developer.
+I work at [Tillster](https://www.tillster.com/) as Frontend Software Engineer.
 
 
-- ⚙️ I work with React and plain JavaScript apps on my daily basis.
+- ⚙️ I'm currently working with AngularJS and plain JavaScript apps on my daily basis.
 - 🌱 I’m learning at the moment **Svelte, Node, Angular**
 - 👯 I’m open to collaborate on a Web Standard based codebase for an open-source project.
 
