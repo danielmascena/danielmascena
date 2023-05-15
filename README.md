@@ -1,5 +1,5 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel Mascena</h1>
-<p align = "justify">👨🏻‍💻 I'm a frontend developer who loves JavaScript, HTML5 and CSS3. Also, I'm concern with UX and beautiful interfaces.</p>
+<p align = "justify">👨🏻‍💻 I'm a Software Developer with more than a decade of work in the area. I am passionate about web technologies like JavaScript, HTML5, and CSS3, and problem-solving programming [challenges](https://leetcode.com/danielmascena/).</p>
 
 I work at [Tillster](https://www.tillster.com/) as Frontend Software Engineer.
 
