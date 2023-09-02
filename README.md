@@ -1,12 +1,12 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel Mascena</h1>
-<p align = "justify">👨🏻‍💻 I'm a Software Developer with more than a decade of work in the area. I am passionate about web technologies like JavaScript, HTML5, and CSS3, and problem-solving programming [challenges](https://leetcode.com/danielmascena/).</p>
+<p align = "justify">👨🏻‍💻 I'm a Software Developer with more than a decade of work in the area. I am passionate problem-solving programming/ coding challenges [challenges](https://leetcode.com/danielmascena/).</p>
 
-<p>I have a bachelor's degree in the Software Development by the Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - [IFRN](https://portal.ifrn.edu.br/). Currently, I work at [Tillster](https://www.tillster.com/) as Frontend Software Engineer.</p>
+<p>I have a bachelor's degree in the Software Development by the [IFRN](https://portal.ifrn.edu.br/). Currently, I work at [Tillster](https://www.tillster.com/) as Frontend Software Engineer.</p>
 
 
-- ⚙️ I'm currently working with AngularJS and plain JavaScript apps on my daily basis.
-- 🌱 I’m learning at the moment **Svelte, Node, Angular**
-- 👯 I’m open to collaborate on a Web Standard based codebase for an open-source project.
+- ⚙️ I'm currently working with JavaScript client-side on my daily basis.
+- 🌱 I’m learning at the moment **C, C#, Python, Node, Angular**
+- 👯 I’m open to collaborate on open-source projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielmascena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmascena/)](https://www.linkedin.com/in/danielmascena/)
 [![Gmail Badge](https://img.shields.io/badge/-danielmascena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmascena@gmail.com)](mailto:danielmascena@gmail.com)
