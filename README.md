@@ -4,8 +4,8 @@
 <p>I have a bachelor's degree in the Software Development by the [IFRN](https://portal.ifrn.edu.br/). Currently, I work at [Tillster](https://www.tillster.com/) as Frontend Software Engineer.</p>
 
 
-- ⚙️ I'm currently working with JavaScript client-side on my daily basis.
-- 🌱 I’m learning at the moment ** Python, Kotlin, Flask, PHP**
+- ⚙️ I'm currently working with JavaScript 🦏 client-side on my daily basis.
+- 🌱 I’m learning at the moment ** Python 🐍, Kotlin, Flask, PHP 🐘**
 - 👯 I’m open to collaborate on open-source projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielmascena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmascena/)](https://www.linkedin.com/in/danielmascena/)
@@ -16,8 +16,8 @@
 ![JavaScript 🦏](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python 🐍](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+![Java ☕️](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=java)
+![PHP 🐘](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
