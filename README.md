@@ -5,7 +5,7 @@
 
 
 - ⚙️ I'm currently working with JavaScript 🦏 client-side on my daily basis.
-- 🌱 I’m learning at the moment ** Python 🐍, Kotlin, Flask, PHP 🐘**
+- 🌱 I’m learning at the moment ** Python 🐍, Kotlin **
 - 👯 I’m open to collaborate on open-source projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielmascena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmascena/)](https://www.linkedin.com/in/danielmascena/)
