@@ -4,8 +4,8 @@
 <p>I have a bachelor's degree in the Software Development by the [IFRN](https://portal.ifrn.edu.br/). Currently, I work at [Tillster](https://www.tillster.com/) as Frontend Software Engineer.</p>
 
 
-- ⚙️ I'm currently working with JavaScript 🦏 client-side on my daily basis.
-- 🌱 I’m learning at the moment ** Python 🐍, Kotlin **
+- ⚙️ I'm currently working with a vanilla JavaScript 🦏 code poured with a lot of asynchronicity on my daily basis.
+- 🌱 I’m learning at the moment ** Python 🐍, Web3 **
 - 👯 I’m open to collaborate on open-source projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielmascena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmascena/)](https://www.linkedin.com/in/danielmascena/)
