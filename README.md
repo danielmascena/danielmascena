@@ -1,10 +1,10 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel Mascena</h1>
-<p align = "justify">👨🏻‍💻 I'm a Software Engineer with more than a decade of work in the area. I am passionate about problem-solving programming/coding challenges [challenges](https://leetcode.com/danielmascena/).</p>
+<p align = "justify">👨🏻‍💻 I'm a Software Engineer with more than a decade of work in the area. I am passionate about problem-solving using programming to solve code challenges, visit <a href="https://leetcode.com/danielmascena/">my playground</a> for more information</p>
 
-<p>I have a bachelor's degree in Software Development from the <a href="https://portal.ifrn.edu.br/">IFRN</a>. Currently, I work at <a href="https://www.tillster.com/">Tillster</a> as Senior Software Engineer - FrontEnd.</p>
+<p>I have a bachelor's degree in Software Development from the <a href="https://portal.ifrn.edu.br/">IFRN</a>. Currently, I work at <a href="https://www.tillster.com/">Tillster</a> as a Senior Software Engineer - FrontEnd.</p>
 
 
-- ⚙️ I am working with a vanilla JavaScript 🦏 code poured with a lot of asynchronicity daily.
+- ⚙️ I am working with a vanilla JavaScript <img width="25" height="25" src="https://devopedia.org/images/article/146/5346.1548521013.s.png" /> code poured with a lot of asynchronicity daily.
 - 🌱 I am learning at the moment ** Python3 🐍 and Generative UI 🤖 **
 - 👯 I am open to collaborating on open-source projects.
 
