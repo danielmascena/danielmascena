@@ -13,9 +13,9 @@
 
 ## 🚀 Technologies & Tools
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript 🦏](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Java ☕️](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=java)
 ![Python 🐍](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -37,4 +37,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmascena&hide=TeX&layout=compact)
 
 ## ⚙️ Certification
-[![MCP](https://images.credly.com/size/680x680/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png)](https://www.credly.com/badges/6c7b2fec-501c-4c18-8514-0eca04436369)
+<a href="https://www.credly.com/badges/6c7b2fec-501c-4c18-8514-0eca04436369" alt="MCP">
+<img width=200 height=200 src="https://images.credly.com/size/680x680/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" /></a>
+<a>Java Certified Programmer</a>
