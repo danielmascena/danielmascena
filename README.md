@@ -4,7 +4,7 @@
 <p>I have a bachelor's degree in Software Development from the <a href="https://portal.ifrn.edu.br/">IFRN</a>. Currently, I work at <a href="https://www.tillster.com/">Tillster</a> as a Senior Software Engineer</p>
 
 
-- ⚙️ I work with TypeScript and vanilla JavaScript <img width="25" height="25" src="https://devopedia.org/images/article/146/5346.1548521013.s.png" /> code poured with a lot of asynchronicity daily.
+- ⚙️ I work with TypeScript, Java, vanilla JavaScript <img width="25" height="25" src="https://devopedia.org/images/article/146/5346.1548521013.s.png" /> code poured with a lot of asynchronicity daily.
 - 🌱 I am learning at the moment ** Python3 🐍 and Generative UI 🤖 **
 - 👯 I am open to collaborating on open-source projects.
 
@@ -14,9 +14,10 @@
 ## 🚀 Technologies & Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Java ☕️](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=java)
 ![JavaScript 🦏](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Java ☕️](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=java)
+![PHP 🐘](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Python 🐍](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
