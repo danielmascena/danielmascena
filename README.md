@@ -1,5 +1,6 @@
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel Mascena</h1>
-<p align = "justify">👨🏻‍💻 I'm a Software Engineer with more than a decade of work in the area. I am passionate about problem-solving using programming to solve code challenges, visit <a href="https://leetcode.com/danielmascena/">my playground</a> for more information</p>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm {Daniel Mascena}
+
+👨🏻‍💻 I'm a Software Engineer with more than a decade of work in the area. I am passionate about problem-solving using programming to solve code challenges, I have some scars to prove it [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/danielmascena/) :grin:
 
 <p>I have a bachelor's degree in Software Development from the <a href="https://portal.ifrn.edu.br/">IFRN</a>. Currently, I work at <a href="https://www.newfireglobal.com/">Newfire Global</a> as a Senior Software Engineer</p>
 
@@ -7,9 +8,8 @@
 - ⚙️ I work with TypeScript, Java, vanilla JavaScript code poured with a lot of asynchronicity daily.
 - 🌱 I am learning at the moment ** Python3 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#) and I want to learn [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#) **
 - 👯 I am open to collaborating on open-source projects.
-
-[![Linkedin Badge](https://img.shields.io/badge/-danielmascena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmascena/)](https://www.linkedin.com/in/danielmascena/)
-[![Gmail Badge](https://img.shields.io/badge/-danielmascena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmascena@gmail.com)](mailto:danielmascena@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/danielmascena/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:danielmascena@gmail.com)
 
 ## 🚀 Technologies & Tools
 
@@ -75,7 +75,6 @@
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
