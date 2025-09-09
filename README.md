@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm {Daniel Mascena}
 
-👨🏻‍💻 I'm a Software Engineer with more than a decade of work in the area. I am passionate about problem-solving using programming to solve code challenges, I have some scars to prove it [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/danielmascena/) :grin:
+👨🏻‍💻 I'm a Software Engineer with more than a decade of work in the area. I am passionate about problem-solving using programming, I like to spend some time on solving coding challenges here [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/danielmascena/) 
 
 <p>I have a bachelor's degree in Software Development from the <a href="https://portal.ifrn.edu.br/">IFRN</a>. Currently, I work at <a href="https://www.newfireglobal.com/">Newfire Global</a> as a Senior Software Engineer</p>
 
